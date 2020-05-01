@@ -1095,11 +1095,18 @@ ul#nav li.active a {
 
 .single-gallery-items {
     float: left;
-    width: 10%;
+    width: 20%;
 }
 
 .single-gallery-items img {
     width: 100%;
+    max-width: 3000px;
+    border-width: 2160px;
+}
+.single-gallery-items-landscape{
+    float: left;
+    width: 60%;
+    
 }
 
 
